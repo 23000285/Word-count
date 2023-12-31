@@ -13,8 +13,9 @@ Open the specified text file in read mode.
 
 ### Step 3: 
 Iterate through each line in the file:
- Split the line into a list of words.
- Add the number of words in the line to the total word count.
+ *Split the line into a list of words.
+ *Add the number of words in the line to the total word count.
+
 ### Step 4:  
 Close the file.
 
